@@ -1,2 +1,2 @@
 # learn
-learn repository
+learn repository of git for learning
